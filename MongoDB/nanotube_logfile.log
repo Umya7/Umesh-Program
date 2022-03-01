@@ -1,0 +1,13 @@
+2022-03-01 20:45:44 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-00.nxnxr.mongodb.net:27017', 'cluster0-shard-00-01.nxnxr.mongodb.net:27017', 'cluster0-shard-00-02.nxnxr.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-drm5uw-shard-0', tls=True)
+2022-03-01 20:46:00 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-00.nxnxr.mongodb.net:27017', 'cluster0-shard-00-01.nxnxr.mongodb.net:27017', 'cluster0-shard-00-02.nxnxr.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-drm5uw-shard-0', tls=True), 'carbon_nano_db')
+2022-03-01 20:46:51 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-00.nxnxr.mongodb.net:27017', 'cluster0-shard-00-01.nxnxr.mongodb.net:27017', 'cluster0-shard-00-02.nxnxr.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-drm5uw-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-03-01 20:49:04 INFO-Data Inserted: 10721records
+2022-03-01 20:49:52 INFO-Data Inserted: 1records
+2022-03-01 21:00:09 INFO-Data Updated
+2022-03-01 21:04:13 INFO-Data Updated
+2022-03-01 21:07:08 INFO-Record Deleted
+2022-03-01 21:09:25 INFO-Record Deleted
+2022-03-01 21:10:12 INFO-Finding the records for query: {'m': '1'}
+2022-03-01 21:10:21 INFO-Finding the records for query: {'m': {'$lte': 2}}
+2022-03-01 21:10:34 INFO-Finding the records for query: {'u': {'$in': ['0,287448', '0,489336', '0,665708']}}
+2022-03-01 21:10:53 INFO-Displaying the top 10records
