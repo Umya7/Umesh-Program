@@ -1,0 +1,6 @@
+2022-03-01 22:25:43 INFO-Word count for records: 29647 from 2Datasets
+2022-03-01 22:27:06 INFO-Data record count : 26 from 2Datasets
+2022-03-01 22:27:54 INFO-Total filter records: 115429 from 1Datasets
+2022-03-01 22:30:02 INFO-Success Return of list of list
+2022-03-01 22:31:42 INFO-Database Created: <sqlite3.Connection object at 0x000001E6BBCE4B70>
+2022-03-01 22:31:42 INFO-Total records inserted: 6906
